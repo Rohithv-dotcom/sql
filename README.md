@@ -1,6 +1,7 @@
 # SQL
 
 🛠️ SQL Projects & Practice
+
 Welcome to my SQL portfolio! This repository includes a wide range of SQL practice queries and real-world projects that demonstrate my skills in querying, analyzing, and transforming data using SQL.
 
 📚 What You'll Find
